@@ -1,0 +1,41 @@
+//----------------------------------------------------//
+// FONTS                                              //
+//----------------------------------------------------//
+
+// Garniture => Helvetica Neue
+//--------------------------------------------------//
+//@font-face {
+//  font-family: 'Helvetica Neue';
+//  src: url('../fonts/HelveticaNeueCyr-Thin.eot');
+//  src: url('../fonts/HelveticaNeueCyr-Thin.eot?#iefix') format('embedded-opentype'),
+//  url('../fonts/HelveticaNeueCyr-Thin.woff2') format('woff2'),
+//  url('../fonts/HelveticaNeueCyr-Thin.woff') format('woff'),
+//  url('../fonts/HelveticaNeueCyr-Thin.ttf') format('truetype'),
+//  url('../fonts/HelveticaNeueCyr-Thin.svg#robotoregular') format('svg');
+//  font-weight: 200;
+//  font-style: normal;
+//}
+
+@font-face {
+  font-family: 'Lobster 1.4';
+  src: url('../fonts/Lobster14.eot');
+  src: url('../fonts/Lobster14.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/Lobster14.woff2') format('woff2'),
+  url('../fonts/Lobster14.woff') format('woff'),
+  url('../fonts/Lobster14.ttf') format('truetype'),
+  url('../fonts/Lobster14.svg#Lobster1.4') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('../fonts/OpenSans.eot');
+  src: url('../fonts/OpenSans.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/OpenSans.woff2') format('woff2'),
+  url('../fonts/OpenSans.woff') format('woff'),
+  url('../fonts/OpenSans.ttf') format('truetype'),
+  url('../fonts/OpenSans.svg#OpenSans') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
