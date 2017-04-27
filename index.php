@@ -45,7 +45,7 @@ if (isset($_POST['name']) && isset($_POST['email'])){
     <meta name="og:phone_number" content="+380">
     <meta name="fb:page_id" content="">
 
-    <title>ProjecName</title>
+    <title>Author</title>
 
     <!--[if IE]>
     <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
